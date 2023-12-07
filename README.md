@@ -1,4 +1,4 @@
-Hello! I'm Juan, a 17-year-old aspiring full-stack software engineer. I'm passionate about the world of Android applications and backend development. I'm excited to dive deeper and expand my knowledge in this thrilling technological field. Currently, I'm focusing my efforts on the project [FileManagerSphere](https://github.com/Ruan625Br/FileManagerSphere), where I'm exploring and learning while building.
+Hello! I'm Juan, a 17-year-old software developer. I'm passionate about the world of Android applications and backend development. I'm excited to dive deeper and expand my knowledge in this thrilling technological field. Currently, I'm focusing my efforts on the project [FileManagerSphere](https://github.com/Ruan625Br/FileManagerSphere), where I'm exploring and learning while building.
 
 You can read more about me on my [Portfolio Site](https://ruan625br.github.io/).
 
@@ -17,20 +17,12 @@ You can read more about me on my [Portfolio Site](https://ruan625br.github.io/).
 
 
 ### GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ruan625Br&theme=merko&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Ruan625Br&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruan625Br&theme=merko&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-### GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Ruan625Br&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=Ruan625Br&theme=gotham&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Ruan625Br&theme=gotham&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruan625Br&theme=gotham&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ### Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Ruan625Br&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Ruan625Br&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
 
 ---
-
-### You can help me by Donating
-  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/juannascimento) 
