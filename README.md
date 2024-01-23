@@ -1,10 +1,8 @@
-Hello! I'm Juan, a 17-year-old software developer. I'm passionate about the world of Android applications and backend development. I'm excited to dive deeper and expand my knowledge in this thrilling technological field. Currently, I'm focusing my efforts on the project [FileManagerSphere](https://github.com/Ruan625Br/FileManagerSphere), where I'm exploring and learning while building.
+Olá! Eu sou Juan, um desenvolvedor de software de 18 anos. Tenho paixão pelo mundo das aplicações Android e desenvolvimento de backend. Estou animado para aprofundar meus conhecimentos nesse empolgante campo tecnológico. Atualmente, estou concentrando meus esforços no projeto [FileManagerSphere](https://github.com/Ruan625Br/FileManagerSphere), onde estou explorando e aprendendo enquanto construo.
 
-You can read more about me on my [Portfolio Site](https://ruan625br.github.io/).
-
+Você pode saber mais sobre mim no meu [site de portfólio](https://ruan625br.github.io/).
 
 ---
-
 
 #### Languages
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
