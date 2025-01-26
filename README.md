@@ -1,6 +1,4 @@
-Olá! Eu sou Juan, um desenvolvedor de software de 18 anos. Tenho paixão pelo mundo das aplicações Android.
-Você pode saber mais sobre mim no meu [site de portfólio](https://ruan625br.github.io/).
-
+Desenvolvedor Android
 ---
 
 #### Languages
