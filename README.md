@@ -10,9 +10,9 @@ val juan = developer {
         email = "juannascimento048@gmail.com"
     }
     links {
-        github = "Ruan625Br"
         linkedin = "juan-nascimento625"
         instagram = "ruan_nsj"
+        discord = "nascimento626"
     }
 }
 ```
